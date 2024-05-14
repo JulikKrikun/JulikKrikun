@@ -7,9 +7,13 @@
   </article>
   <article>
     <p style="color: blue; font-size: 16px;">Этот текст будет синего цвета и с размером шрифта 16 пикселей.</p>
-    
-    <h2>Еще одна новость</h2>  color: green;
+     <style>
+    p {
+      color: green;
       font-size: 14px;
+    }
+  </style>
+    <h2>Еще одна новость</h2>  
     <p>Текст другой новости...</p>
     <p>Дата публикации: 2023-05-14</p>
   </article>
